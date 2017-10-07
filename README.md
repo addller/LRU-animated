@@ -13,7 +13,7 @@ Carece de mais testes, mas para o proposto, está satisfatório.
 * cacheEmulator -> dist -> cacheEmulator.jar
 Just click and run.
 
-# Requisitos Necessário:
+# Requisitos Necessários:
 * Java Virtual Machine, versão mais recente.
 
 # Instalação:
