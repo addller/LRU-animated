@@ -8,11 +8,11 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="cacheEmulator.jar" size="6789" download="eager" />
+    <jar href="cacheEmulator.jar" size="8041" download="eager" />
   </resources>
   <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="cacheEmulator" >
     <param name="requiredFXVersion" value="8.0+"/>
   </applet-desc>
-  <jfx:javafx-desc  width="800" height="600" main-class="cache_emulator.Ambiente"  name="cacheEmulator" />
+  <jfx:javafx-desc  width="800" height="600" main-class="ambiente.Ambiente"  name="cacheEmulator" />
   <update check="always"/>
 </jnlp>

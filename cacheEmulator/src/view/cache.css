@@ -1,0 +1,23 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.pilha {
+    -fx-padding: 10;
+    -fx-background-color: blue;
+    -fx-pref-width: 61;
+    -fx-font: bolder italic 12px cursive;
+    -fx-text-fill: white;
+}
+
+.txtRed{
+    -fx-text-fill: red;
+}
+
+.txtBlue{
+    -fx-text-fill: blue;
+}
+
+.txtBold{
+    -fx-font-weight: bold;
+}
