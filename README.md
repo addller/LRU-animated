@@ -1,4 +1,4 @@
-# LRU:animated
+# LRU "animated"
 It's a funny way to learn about cache memory.
 Actually, we are job about a bug that occurs while the stack it's charging.
 
